@@ -1,0 +1,2 @@
+# Real-Time-Vehicle-Tracking-And-Speed-Checking-System-Based-On-IOT
+An advanced vehicle monitoring and tracking system based on Arduino Board and android application is designed and implemented for monitoring the school vehicle from any location A to location B at real time.  The proposed system would place inside the vehicle whose position is to be determined on the web page and monitored at real time.  In the proposed system, there is comparison between the current vehicle path and already specified path into the file system of arduino.
