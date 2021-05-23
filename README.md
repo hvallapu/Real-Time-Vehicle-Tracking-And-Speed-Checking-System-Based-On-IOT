@@ -1,2 +1,19 @@
-# Real-Time-Vehicle-Tracking-And-Speed-Checking-System-Based-On-IOT
-An advanced vehicle monitoring and tracking system based on Arduino Board and android application is designed and implemented for monitoring the school vehicle from any location A to location B at real time.  The proposed system would place inside the vehicle whose position is to be determined on the web page and monitored at real time.  In the proposed system, there is comparison between the current vehicle path and already specified path into the file system of arduino.
+## Bus tracking using gps neo 6m and gsm SIM900a with arduino
+Bus (vehicle) tracking system using GPS neo 6m, GSM SIM 900a, arduino and google maps. The Project was made for the purposes of <a href="https://just.edu.bd/">Jashore University of Science &amp; Technology</a> bus tracking.
+
+## Device Used
+* Arduino Uno
+* GPS neo 6m
+* GSM SIM900a
+* Breadbard
+* Some Cable wires &
+* Operator SIM
+
+## Languages Used
+* C++ for Arduino
+* PHP Backend
+* MySQL Database
+* JavaScript
+* HTML5 & CSS3
+* MAP API
+
